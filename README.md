@@ -1,1 +1,1 @@
-# Titanic---Machine-Learning-from-Disaster-Using-SVM-
+# Titanic-Machine-Learning-from-Disaster-Using-SVM
